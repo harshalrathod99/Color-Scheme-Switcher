@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+#heading{
+    color: violet;
+    text-shadow: 2px 2px black;
+    align-items: center;
+    justify-content: center;
+}
+
+span {
+    display: block;
+  }
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+  }
+
+#green{
+    background-color: green;
+  }
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#para{
+    font-size: larger;
+    color: white;
+}
